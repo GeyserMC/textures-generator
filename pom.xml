@@ -7,7 +7,7 @@
     <artifactId>textures-generator</artifactId>
     <version>parent</version>
     <packaging>pom</packaging>
-    <name>Geyser</name>
+    <name>textures-generator</name>
     <description>Converts/creates Bedrock resource pack info.</description>
     <url>https://geysermc.org</url>
 
